@@ -1,9 +1,10 @@
 {
     "owner": {
         "username": "MYB-SIFAT",
-        "email": "sifatx404@gmail.com"
+        "email": "Sifatx404@gmail.com"
     },
     "records": {
-        "CNAME": "myb-sifat.vercel.app"
+        "A": ["216.198.79.1"],
+        "TXT": "vc-domain-verify=xsifat.is-a.dev,b91e2241d65e6f6a2c95"
     }
 }
